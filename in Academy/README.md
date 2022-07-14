@@ -25,6 +25,7 @@
 > - HTML
 > - CSS
 > - Javascript
+> - jQuery
 
 <br/>
 
