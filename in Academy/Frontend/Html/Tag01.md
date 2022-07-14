@@ -5,16 +5,18 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>tag01 : 앵커 태그</title>
+
+<title>tag01 : 앵커 태그</title> <!-- 상단 탭 이름 설정 -->
+
 </head>
 <body>
 
 <!-- 1. 속성1 : 링크 거는 기능 및 파일 다운로드 기능 -->
-<a href="../index.html">홈</a><br/> <!-- 홈을 누르면 링크로 이동한다. -->
-								   <!-- ../index.html의미 : 하나의 폴더 위에 있는 html파일로 이동 (경로 중요)-->
-								   <!-- tag01_a.html에서 run실행 해야한다. -->
+<!-- 		   홈을 누르면 링크로 이동한다. -->
+<!-- 		   ../index.html의미 : 하나의 폴더 위에 있는 html파일로 이동 (경로 중요)-->
+<!-- 		   tag01_a.html에서 run실행 해야한다. -->
+<a href="../index.html">홈</a><br/>
 <a href="https://www.nate.com/" target="_blank" title="네이트로 이동하기!!!">네이트</a><br/>
-
 
 <!-- 2. 속성2 : 같은 페이지를 다른 위치로 이동시키기-->
 1. <a href="#a1">html이란?</a><br/>
