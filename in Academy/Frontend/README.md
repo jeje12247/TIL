@@ -7,3 +7,6 @@
 :pushpin: Javascript
 
 :pushpin: JQuery
+
+- 기초
+- 지도
