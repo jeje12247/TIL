@@ -7,7 +7,8 @@
 </head>
 <body>
 <h1>1개의 이미지를 여러 곳으로 링크 걸기</h1>
-<img src="../img/jeju_map.jpg" usemap="#jejuMap"/>
+<img src="../img/jeju_map.jpg" usemap="#je
+juMap"/>
 ```
 
 dvsdzx
