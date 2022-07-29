@@ -1,6 +1,6 @@
 # :bookmark_tabs: TIL 소개
 
-### :pushpin: in Academy
+### :pushpin: Academy
 
 - 국비 학원에서 배운 내용 복습 및 정리
 
